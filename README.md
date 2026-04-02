@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="left">
-  <img src="./assets/shubham.png" alt="Shubham Logo" width="100" style="margin-top: -60px; margin-left: -17px"/>
+  <img src="./assets/shubham_logo.png" alt="Shubham Logo" width="200" height="100" style="margin-top: -60px; margin-left: -17px"/>
  <p>
     <img src="https://img.shields.io/badge/CREATING%20SOLUTIONS%20TO%20PROBLEMS-black?style=for-the-badge&labelColor=1e1e2f&color=white" />
   </p>
