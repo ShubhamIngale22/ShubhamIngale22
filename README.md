@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/IDENTIFYING%20AND%20BUILDING%20THEM%20SYSTEMATICALLY-black?style=for-the-badge&labelColor=1e1e2f&color=pink" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/-Studying NEURAL_NETWORKS-black?style=for-the-badge&labelColor=ec1313&color=1e1e2f" />
+    <img src="https://img.shields.io/badge/-Studying JavaScript Full Stack -black?style=for-the-badge&labelColor=ec1313&color=1e1e2f" />
   </p>
 
   <p>
