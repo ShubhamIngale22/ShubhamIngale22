@@ -24,7 +24,7 @@
 </p>
 
 <p>
-    <img src="https://img.shields.io/badge/-Languages and Mobile-black?style=for-the-badge&labelColor=ec1313&color=black" />
+    <img src="https://img.shields.io/badge/-Languages and Mobile-black?style=for-the-badge&labelColor=ec1313&color=maroon" />
   </p>
 
 <p align="left">
